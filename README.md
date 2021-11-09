@@ -38,3 +38,4 @@ There's pretty much only one direction the parts will fit in here, as follows.  
 ![Extension layout](images/tray_layout_wextension.jpg)
 
 - Exploded layout (note this was a previous version and the switch has moved)
+![Exploded layout](images/exploded_layout.jpg)
