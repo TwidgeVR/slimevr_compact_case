@@ -15,7 +15,7 @@ Support should not be necessary for the other parts.  This is a friction-fit pie
 
 Lids should be printed flipped over with the 'top' side against the build plate.
 
-If you print the diffuser in white or a semi-translucent material you can see the battery charge LEDs while charging, however with this design the ESP is 'upside down' and the status LED is not visible.  This part is meant to be glued behind the SlimeVR logo in the lid, and may need some trimming to fit the shallow insert space depending on your printer.
+If you print the diffuser in white or a semi-translucent material you can see the battery charge LEDs while charging, however with this design the ESP is 'upside down' and the status LED is not visible.  The diffuser insert is meant to be glued behind the SlimeVR logo in the lid, and may need some trimming to fit the shallow insert space depending on your printer.
 
 When building the tracker, you should first flip the tray over, insert the battery into the tray, and then place the base onto the tray, this will prevent the battery falling out and getting pinched during assembly.
 
