@@ -15,6 +15,7 @@ Lids should be printed flipped over with the 'top' side against the build plate.
 
 If you print the diffuser in white or a semi-translucent material you can see the battery charge LEDs while charging, however with this design the ESP is 'upside down' and the status LED is not visible.  This part is meant to be glued behind the SlimeVR logo in the lid, and may need some trimming to fit the shallow insert space depending on your printer.
 
+If you will add an extension IMU, use the lit 'wextension' part, it is a little bit taller to fit the 5 pin JST female connector and the extra wires.
 
 Please join me in the SlimeVR Discord server if you'd like to ask me any questions about squeezing all the components into this thing!
 
