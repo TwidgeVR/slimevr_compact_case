@@ -1,5 +1,7 @@
 # SlimeVR Compact Case by Twidge
 
+![Case Display](images/compact_case_display.jpg)
+
 A compact case for SlimeVR trackers using:
 - D1 Mini ESP microcontroller
 - BNO08X IMU
@@ -20,3 +22,15 @@ If you will add an extension IMU, use the lit 'wextension' part, it is a little 
 Please join me in the SlimeVR Discord server if you'd like to ask me any questions about squeezing all the components into this thing!
 
 https://discord.gg/slimevr
+
+
+
+# Recommended layout
+
+There's pretty much only one direction the parts will fit in here, as follows.  Note that I am using an external voltage regulator here (Adafruit: https://www.adafruit.com/product/4711) which is an optional part, you can connect the out+ from the TP4095 directly to the 5Vin pin on the D1 mini ESP.
+
+- Normal layout for standalone tracker
+![Normal layout](images/tray_layout.jpg)
+
+- Layout with 5 pin female JST connector
+![Extension layout](images/tray_layout_wextension.jpg)
